@@ -1,0 +1,25 @@
+main {
+  text-align: center;
+
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.textInput {
+  padding: 10px 20px 10px 20px;
+  width: 50%;
+  margin-top: 20px;
+}
+
+.forecast-button {
+  margin-top: 15px;
+  border: 0;
+  padding: 10px 30px 10px 30px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #208c8b;
+  color: white;
+}
